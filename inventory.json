@@ -1,0 +1,7 @@
+{
+  "devices": [
+    {"hostname": "R1-HQ",    "ip": "127.0.0.1",   "type": "Cisco ISR 4331",      "port": 22, "simulated_status": "UP"},
+    {"hostname": "SW1-CORE", "ip": "192.0.2.10",  "type": "Cisco Catalyst 9300", "port": 22, "simulated_status": "UP"},
+    {"hostname": "SW2-ACC",  "ip": "192.0.2.11",  "type": "Cisco Catalyst 2960", "port": 22, "simulated_status": "DOWN"}
+  ]
+}
