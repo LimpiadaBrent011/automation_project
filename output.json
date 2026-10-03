@@ -3,18 +3,18 @@
     "hostname": "R1-HQ",
     "ip": "127.0.0.1",
     "status": "UP",
-    "checked_at": "2026-10-03T13:05:20"
+    "checked_at": "2026-10-03T14:18:37"
   },
   {
     "hostname": "SW1-CORE",
     "ip": "192.0.2.10",
     "status": "UP",
-    "checked_at": "2026-10-03T13:05:20"
+    "checked_at": "2026-10-03T14:18:37"
   },
   {
     "hostname": "SW2-ACC",
     "ip": "192.0.2.11",
     "status": "DOWN",
-    "checked_at": "2026-10-03T13:05:20"
+    "checked_at": "2026-10-03T14:18:37"
   }
 ]
